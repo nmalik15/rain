@@ -49,8 +49,8 @@ def forecast(date):
     else:
         print(f"No result available for {date}")
 
-# Get the date from the user
-date_input = input("Enter a date in YYYY-MM-DD format (or press Enter to use the next day): ")
+# # Get the date from the user
+# date_input = input("Enter a date in YYYY-MM-DD format (or press Enter to use the next day): ")
 
 # If no date is provided, use the next day
 while True:
